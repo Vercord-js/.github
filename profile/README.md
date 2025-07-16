@@ -3,8 +3,8 @@
 <br />
 
 <p align=center>
-  <a href="https://vercordjs.org/"><img src="https://img.shields.io/badge/Vercordjs%20-18181B?logo=gitbook&logoColor=B1A96A" alt="Website"></a>
-  <a href="https://discord.gg/yHmwhNWaQj"><img src="https://img.shields.io/badge/Vercordjs%20Discord-18181B?logo=discord&logoColor=B1A96A" alt="Discord"></a>
+  <a href="https://vercordjs.org/"><img src="https://img.shields.io/badge/Vercordjs%20-18181B?logo=gitbook&logoColor=CAAC5B" alt="Website"></a>
+  <a href="https://discord.gg/yHmwhNWaQj"><img src="https://img.shields.io/badge/Vercordjs%20Discord-18181B?logo=discord&logoColor=CAAC5B" alt="Discord"></a>
 </p>
 
 <br />
