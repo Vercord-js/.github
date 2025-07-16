@@ -1,4 +1,4 @@
-<p align=center>🌉 The bridge between the Node.js ecosystem and the simplicity of Lua.</p>
+[![Vercordjs](./.github/assets/banner.png)](https://vercordjs.org/)
 
 <br />
 
