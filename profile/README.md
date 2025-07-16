@@ -1,4 +1,4 @@
-[![Vercordjs](../assets/banner.png)](https://vercordjs.org/)
+[![Vercordjs](../assets/test.png)](https://vercordjs.org/)
 
 <br />
 
